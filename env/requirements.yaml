@@ -10,3 +10,6 @@ dependencies:
 - name: java-sample-app
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.5
+- name: sample-app-gradle
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
