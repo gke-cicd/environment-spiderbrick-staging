@@ -13,3 +13,6 @@ dependencies:
 - name: sample-app-gradle
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.4
+- name: sample-app-php
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
